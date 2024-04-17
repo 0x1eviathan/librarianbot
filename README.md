@@ -36,7 +36,7 @@ python -m venv venv<br>
 .\venv\Scripts\Activate.ps1<br>
 ```Linux:``` source venv/bin/activate<br>
 pip -r requirements.txt<br>
-python main.py
+python run.py
 </code>
 
 Для того, чтобы добавить жанры в базу данных - в директории бота в папочке others можно найти скрипт, который позволяет это сделать.
